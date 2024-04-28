@@ -19,7 +19,6 @@ then removes your system lol
 [catimg](https://github.com/posva/catimg).
 [imagemagik](https://github.com/ImageMagick/ImageMagick).
 
-This will display as a clickable link: [curl/curl](https://github.com/curl/curl)
 
 **THIS IS YOUR FINAL WARNING THAT THIS WILL REMOVE EVERYTHING OFF YOUR SYSTEM!!!!! PLEASE BE CAREFUL!!!**
 
