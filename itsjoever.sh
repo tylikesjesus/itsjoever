@@ -28,7 +28,7 @@ for ((i=1; i<=1; i++)); do
     resize_image
     # Display the resized image using catimg
     catimg resized_image.jpg
-    sleep 10
+    sleep 5
 done
 
 # Clean up downloaded files
