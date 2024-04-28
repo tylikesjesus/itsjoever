@@ -5,10 +5,10 @@ if ! command -v curl &> /dev/null || ! command -v catimg &> /dev/null; then
     echo "curl or catimg is not installed. Please install them first."
     exit 1
 fi
+
 # Confirmation prompt
 read -p "Are you absolutely sure you want to run this? This will remove everything off your system! (yes/no): " answer
 if [[ $answer == "yes" ]]; then
-
 
 # Clear the terminal
 clear
