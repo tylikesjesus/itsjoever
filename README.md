@@ -14,3 +14,5 @@ it displays this image
 then removes your system lol
 
 **THIS IS YOUR FINAL WARNING THAT THIS WILL REMOVE EVERYTHING OFF YOUR SYSTEM!!!!! PLEASE BE CAREFUL!!!**
+
+note:this isnt some politcal thing so dont take it as that its just a meme
