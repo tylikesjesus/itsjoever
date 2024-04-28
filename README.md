@@ -15,16 +15,9 @@ then removes your system lol
 
 **Required files**
 
-```markdown
-[curl](https://github.com/curl/curl)
-```
-```markdown
-[imagemagik](https://github.com/ImageMagick/ImageMagick)
-```
-```markdown
-[catimg](https://github.com/posva/catimg)
-```
-
+[curl](https://github.com/curl/curl).
+[catimg](https://github.com/posva/catimg).
+[imagemagik](https://github.com/ImageMagick/ImageMagick).
 
 This will display as a clickable link: [curl/curl](https://github.com/curl/curl)
 
