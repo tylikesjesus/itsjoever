@@ -15,14 +15,18 @@ then removes your system lol
 
 **Required files**
 
-A linux install
+```markdown
+[curl](https://github.com/curl/curl)
+```
+```markdown
+[imagemagik](https://github.com/ImageMagick/ImageMagick)
+```
+```markdown
+[catimg](https://github.com/posva/catimg)
+```
 
-curl
 
-imagemagik
-
-catimg
-
+This will display as a clickable link: [curl/curl](https://github.com/curl/curl)
 
 **THIS IS YOUR FINAL WARNING THAT THIS WILL REMOVE EVERYTHING OFF YOUR SYSTEM!!!!! PLEASE BE CAREFUL!!!**
 
