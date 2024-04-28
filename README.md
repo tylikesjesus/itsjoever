@@ -13,7 +13,7 @@ it displays this image
 
 then removes your system lol
 
-Required files 
+**Required files**
 
 A linux install
 
