@@ -1,10 +1,8 @@
 #!/bin/bash
 
-# Check if curl and catimg are installed
-if ! command -v curl &> /dev/null || ! command -v catimg &> /dev/null; || !command -v imagemagick &> /dev/null; then
-    echo "curl or catimg is not installed. Please install them first."
-    exit 1
-fi
+# Check if curl, catimg, and convert (from ImageMagick) are installed
+if ! command -v curl &> /dev/null || ! command -v catimg &> /dev/null || ! command -v convert &> /dev/null; then
+    echo "One or more required commands (curl, catimg, convert) are not installed."
 
 # Confirmation prompt
 read -p "Are you absolutely sure you want to run this? This will remove everything off your system! (yes/no): " answer
