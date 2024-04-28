@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Check if curl and catimg are installed
-if ! command -v curl &> /dev/null || ! command -v catimg &> /dev/null; || !command -v imagemagick &> /dev/null
+if ! command -v curl &> /dev/null || ! command -v catimg &> /dev/null; || !command -v imagemagick &> /dev/null; then
     echo "curl or catimg is not installed. Please install them first."
     exit 1
 fi
