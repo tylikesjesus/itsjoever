@@ -1,6 +1,6 @@
 **Why was this Made?**
 
-Once upon a time I installed hyprland. I figured out that hyprland is very unstable on my system so i wanted to remove everything off my system and reinstall arch linux. And i figured "what is the dumbest way to remove arch linux and this was it.
+Once upon a time I installed hyprland. I figured out that hyprland is very unstable on my system so i wanted to remove everything off my system and reinstall arch linux. And i figured "what is the dumbest way to remove arch linux" and this was it.
 
 
 
